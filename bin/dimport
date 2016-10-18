@@ -184,7 +184,7 @@ done
 
 # figure out which class to run
 if [ "$COMMAND" = "master" ] ; then
-  CLASS='com.tydic.dimport.daemon.DImportMasterStart'
+  CLASS='com.ery.dimport.daemon.DImportMasterStart'
 elif [ "$COMMAND" = "clean" ] ; then
   case $1 in
     --cleanZk)
@@ -197,13 +197,13 @@ elif [ "$COMMAND" = "clean" ] ; then
     echo "        --cleanZk   cleans dimport related data from zookeeper."
     exit 1;
   fi
-  CLASS='com.tydic.dimport.daemon.CleanData'
+  CLASS='com.ery.dimport.daemon.CleanData'
 
 elif [ "$COMMAND" = "classpath" ] ; then
   echo $CLASSPATH
   exit 0
 elif [ "$COMMAND" = "version" ] ; then
-  CLASS='com.tydic.server.util.VersionInfo'
+  CLASS='com.ery.server.util.VersionInfo'
 else
   CLASS=$COMMAND
 fi

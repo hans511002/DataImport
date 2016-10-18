@@ -52,7 +52,7 @@
  </property> 
  <property>
     <name>dimport.process.interface</name>
-    <value>com.tydic.dimport.db.MysqlImport</value>
+    <value>com.ery.dimport.db.MysqlImport</value>
  </property>     
  <property>
     <name>dimport.log.write.level</name>
