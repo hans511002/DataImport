@@ -1,0 +1,607 @@
+2015-08-20 16:38:49,544 INFO  [main] util.VersionInfo: dimport Unknown
+2015-08-20 16:38:49,553 INFO  [main] util.VersionInfo: Subversion Unknown -r Unknown
+2015-08-20 16:38:49,554 INFO  [main] util.VersionInfo: Compiled by Unknown on Unknown
+2015-08-20 16:38:49,602 INFO  [main] daemon.DaemonMaster: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting DaemonMaster
+STARTUP_MSG:   host = zouyg/192.168.160.1
+STARTUP_MSG:   args = [start]
+STARTUP_MSG:   version = Unknown
+STARTUP_MSG:   build = Unknown -r Unknown; compiled by 'Unknown' on Unknown
+STARTUP_MSG:   java = 1.7.0_45
+************************************************************/
+2015-08-20 16:38:50,988 INFO  [main] util.ServerCommandLine: env:USERPROFILE=C:\Users\.hans
+2015-08-20 16:38:50,989 INFO  [main] util.ServerCommandLine: env:JAVA_HOME=D:\Program Files (x86)\Java\jdk1.7.0_51
+2015-08-20 16:38:50,989 INFO  [main] util.ServerCommandLine: env:SystemDrive=C:
+2015-08-20 16:38:50,990 INFO  [main] util.ServerCommandLine: env:Path=E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin/client;E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin;E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/i386;D:\oracle\product\10.2.0\db_1\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Condusiv Technologies\ExpressCache\;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\TortoiseSVN\bin;D:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files\Vertica Systems\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Cocos\frameworks\cocos2d-x-3.6\tools\cocos2d-console\bin;D:\Program Files (x86)\IDM Computer Solutions\UEStudio\;E:\php\wamp\bin\mysql\mysql5.6.17\bin;C:\Cocos\tools\Python27;E:\Android\androidSDK\android-ndk-r10d;
+2015-08-20 16:38:50,990 INFO  [main] util.ServerCommandLine: env:PROCESSOR_REVISION=3a09
+2015-08-20 16:38:50,991 INFO  [main] util.ServerCommandLine: env:USERDOMAIN=ZOUYG
+2015-08-20 16:38:50,991 INFO  [main] util.ServerCommandLine: env:ALLUSERSPROFILE=C:\ProgramData
+2015-08-20 16:38:50,992 INFO  [main] util.ServerCommandLine: env:NDK_ROOT=E:\Android\androidSDK\android-ndk-r10d
+2015-08-20 16:38:50,992 INFO  [main] util.ServerCommandLine: env:SESSIONNAME=Console
+2015-08-20 16:38:50,993 INFO  [main] util.ServerCommandLine: env:TMP=C:\Users\HANS~1\AppData\Local\Temp
+2015-08-20 16:38:50,993 INFO  [main] util.ServerCommandLine: env:LOGONSERVER=\\MicrosoftAccount
+2015-08-20 16:38:50,994 INFO  [main] util.ServerCommandLine: env:CommonProgramFiles=C:\Program Files (x86)\Common Files
+2015-08-20 16:38:50,994 INFO  [main] util.ServerCommandLine: env:PROCESSOR_LEVEL=6
+2015-08-20 16:38:50,995 INFO  [main] util.ServerCommandLine: env:USERDOMAIN_ROAMINGPROFILE=ZOUYG
+2015-08-20 16:38:50,995 INFO  [main] util.ServerCommandLine: env:LOCALAPPDATA=C:\Users\.hans\AppData\Local
+2015-08-20 16:38:50,995 INFO  [main] util.ServerCommandLine: env:GTK_BASEPATH=C:\Program Files (x86)\GtkSharp\2.12\
+2015-08-20 16:38:50,996 INFO  [main] util.ServerCommandLine: env:COMPUTERNAME=ZOUYG
+2015-08-20 16:38:50,996 INFO  [main] util.ServerCommandLine: env:SystemRoot=C:\WINDOWS
+2015-08-20 16:38:50,996 INFO  [main] util.ServerCommandLine: env:USERNAME=.hans
+2015-08-20 16:38:50,997 INFO  [main] util.ServerCommandLine: env:COCOS_CONSOLE_ROOT=C:\Cocos\frameworks\cocos2d-x-3.6\tools\cocos2d-console\bin
+2015-08-20 16:38:50,997 INFO  [main] util.ServerCommandLine: env:NLS_LANG=SIMPLIFIED CHINESE_CHINA.ZHS16GBK
+2015-08-20 16:38:50,998 INFO  [main] util.ServerCommandLine: env:READYAPPS=C:\ProgramData\Lenovo\ReadyApps
+2015-08-20 16:38:50,998 INFO  [main] util.ServerCommandLine: env:PERL5LIB=D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x64;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x64;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;D:\oracle\product\10.2.0\db_1\sysman\admin\scripts;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x64;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;D:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x64;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3;D:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;D:\oracle\product\10.2.0\db_1\sysman\admin\scripts
+2015-08-20 16:38:50,998 INFO  [main] util.ServerCommandLine: env:=F:=F:\
+2015-08-20 16:38:50,999 INFO  [main] util.ServerCommandLine: env:APPDATA=C:\Users\.hans\AppData\Roaming
+2015-08-20 16:38:50,999 INFO  [main] util.ServerCommandLine: env:COCOS_FRAMEWORKS=C:\Cocos\frameworks
+2015-08-20 16:38:50,999 INFO  [main] util.ServerCommandLine: env:ProgramData=C:\ProgramData
+2015-08-20 16:38:51,000 INFO  [main] util.ServerCommandLine: env:PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+2015-08-20 16:38:51,000 INFO  [main] util.ServerCommandLine: env:ORACLE_HOME=D:\oracle\product\10.2.0\db_1
+2015-08-20 16:38:51,001 INFO  [main] util.ServerCommandLine: env:ANDROID_SDK_HOME=E:\Android\androidSDK\adt-sdk-x86\sdk
+2015-08-20 16:38:51,001 INFO  [main] util.ServerCommandLine: env:ProgramFiles(x86)=C:\Program Files (x86)
+2015-08-20 16:38:51,001 INFO  [main] util.ServerCommandLine: env:TEMP=C:\Users\HANS~1\AppData\Local\Temp
+2015-08-20 16:38:51,002 INFO  [main] util.ServerCommandLine: env:ANT_ROOT=C:\Cocos\tools\ant\bin
+2015-08-20 16:38:51,002 INFO  [main] util.ServerCommandLine: env:ProgramFiles=C:\Program Files (x86)
+2015-08-20 16:38:51,002 INFO  [main] util.ServerCommandLine: env:HOMEDRIVE=C:
+2015-08-20 16:38:51,003 INFO  [main] util.ServerCommandLine: env:=C:=C:\
+2015-08-20 16:38:51,003 INFO  [main] util.ServerCommandLine: env:ProgramW6432=C:\Program Files
+2015-08-20 16:38:51,004 INFO  [main] util.ServerCommandLine: env:HADOOP_HOME=D:\mpp\install\wxwy\app\hadoop-2.6.0
+2015-08-20 16:38:51,004 INFO  [main] util.ServerCommandLine: env:PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+2015-08-20 16:38:51,005 INFO  [main] util.ServerCommandLine: env:PROCESSOR_ARCHITECTURE=x86
+2015-08-20 16:38:51,005 INFO  [main] util.ServerCommandLine: env:FP_NO_HOST_CHECK=NO
+2015-08-20 16:38:51,005 INFO  [main] util.ServerCommandLine: env:OS=Windows_NT
+2015-08-20 16:38:51,006 INFO  [main] util.ServerCommandLine: env:PROCESSOR_ARCHITEW6432=AMD64
+2015-08-20 16:38:51,006 INFO  [main] util.ServerCommandLine: env:TVT=C:\Program Files (x86)\Lenovo
+2015-08-20 16:38:51,006 INFO  [main] util.ServerCommandLine: env:HOMEPATH=\Users\.hans
+2015-08-20 16:38:51,007 INFO  [main] util.ServerCommandLine: env:CommonProgramW6432=C:\Program Files\Common Files
+2015-08-20 16:38:51,007 INFO  [main] util.ServerCommandLine: env:=D:=D:\
+2015-08-20 16:38:51,007 INFO  [main] util.ServerCommandLine: env:configsetroot=C:\WINDOWS\ConfigSetRoot
+2015-08-20 16:38:51,008 INFO  [main] util.ServerCommandLine: env:VS120COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+2015-08-20 16:38:51,008 INFO  [main] util.ServerCommandLine: env:windir=C:\WINDOWS
+2015-08-20 16:38:51,008 INFO  [main] util.ServerCommandLine: env:NUMBER_OF_PROCESSORS=4
+2015-08-20 16:38:51,009 INFO  [main] util.ServerCommandLine: env:PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+2015-08-20 16:38:51,009 INFO  [main] util.ServerCommandLine: env:PUBLIC=C:\Users\Public
+2015-08-20 16:38:51,009 INFO  [main] util.ServerCommandLine: env:CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+2015-08-20 16:38:51,010 INFO  [main] util.ServerCommandLine: env:LANG=zh_CN.UTF-8
+2015-08-20 16:38:51,010 INFO  [main] util.ServerCommandLine: env:ComSpec=C:\WINDOWS\system32\cmd.exe
+2015-08-20 16:38:51,016 INFO  [main] util.ServerCommandLine: vmName=Java HotSpot(TM) Client VM, vmVendor=Oracle Corporation, vmVersion=24.45-b08
+2015-08-20 16:38:51,017 INFO  [main] util.ServerCommandLine: vmInputArguments=[-Ddimport.log.dir=./logs, -Dfile.encoding=UTF-8]
+2015-08-20 16:38:51,802 INFO  [main] daemon.DaemonMaster: ZOOKEEPER_QUORUM= wxdb03:2181,wxdb04:2181,wxdb05:2181
+2015-08-20 16:38:51,907 INFO  [main] zookeeper.ZooKeeper: Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-08-20 16:38:51,907 INFO  [main] zookeeper.ZooKeeper: Client environment:host.name=zouyg.mshome.net
+2015-08-20 16:38:51,908 INFO  [main] zookeeper.ZooKeeper: Client environment:java.version=1.7.0_45
+2015-08-20 16:38:51,908 INFO  [main] zookeeper.ZooKeeper: Client environment:java.vendor=Oracle Corporation
+2015-08-20 16:38:51,909 INFO  [main] zookeeper.ZooKeeper: Client environment:java.home=E:\soft\java\MyEclipse14\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre
+2015-08-20 16:38:51,909 INFO  [main] zookeeper.ZooKeeper: Client environment:java.class.path=D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\classes;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\activation-1.1.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-annotations-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-auth-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-common-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-hdfs-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-hdfs-nfs-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-nfs-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hadoop-streaming-2.6.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\hamcrest-core-1.3.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\htrace-core-3.0.4.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\rdbms\DbSupport-1.0.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\rdbms\druid-1.0.9.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\rdbms\mysql-connector-java-5.1.14.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\rdbms\ojdbc6.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\ant-1.6.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\asm-4.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\aviator-2.3.2.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-beanutils-1.8.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-cli-1.2.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-codec-1.7.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-configuration-1.6.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\fastjson-1.1.37.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\guava-12.0.1.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\htrace-core-2.01.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\httpclient-4.2.5.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\httpcore-4.2.5.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jackson-core-asl-1.8.8.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jackson-mapper-asl-1.8.8.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jasper-compiler-5.5.23.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jasper-runtime-5.5.23.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jersey-core-1.8.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jersey-json-1.8.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jersey-server-1.8.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jetty-6.1.26.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jetty-util-6.1.26.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jsp-2.1-6.1.14.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\jsp-api-2.1-6.1.14.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\log4j-1.2.15.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\servlet-api-2.5-6.1.14.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\slf4j-api-1.6.5.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\slf4j-log4j12-1.6.4.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\zookeeper-3.4.5.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-collections-3.2.1.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-io-2.4.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-lang-2.6.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\common\commons-logging-1.1.3.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\lib\hadoop\protobuf-java-2.5.0.jar;D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport\conf
+2015-08-20 16:38:51,910 INFO  [main] zookeeper.ZooKeeper: Client environment:java.library.path=E:\soft\java\MyEclipse14\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin/client;E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin;E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/i386;D:\oracle\product\10.2.0\db_1\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Condusiv Technologies\ExpressCache\;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\TortoiseSVN\bin;D:\Program Files (x86)\Java\jdk1.7.0_51\bin;C:\Program Files\Vertica Systems\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Cocos\frameworks\cocos2d-x-3.6\tools\cocos2d-console\bin;D:\Program Files (x86)\IDM Computer Solutions\UEStudio\;E:\php\wamp\bin\mysql\mysql5.6.17\bin;C:\Cocos\tools\Python27;E:\Android\androidSDK\android-ndk-r10d;;.
+2015-08-20 16:38:51,910 INFO  [main] zookeeper.ZooKeeper: Client environment:java.io.tmpdir=C:\Users\HANS~1\AppData\Local\Temp\
+2015-08-20 16:38:51,911 INFO  [main] zookeeper.ZooKeeper: Client environment:java.compiler=<NA>
+2015-08-20 16:38:51,911 INFO  [main] zookeeper.ZooKeeper: Client environment:os.name=Windows 8
+2015-08-20 16:38:51,913 INFO  [main] zookeeper.ZooKeeper: Client environment:os.arch=x86
+2015-08-20 16:38:51,914 INFO  [main] zookeeper.ZooKeeper: Client environment:os.version=6.2
+2015-08-20 16:38:51,914 INFO  [main] zookeeper.ZooKeeper: Client environment:user.name=.hans
+2015-08-20 16:38:51,915 INFO  [main] zookeeper.ZooKeeper: Client environment:user.home=C:\Users\.hans
+2015-08-20 16:38:51,915 INFO  [main] zookeeper.ZooKeeper: Client environment:user.dir=D:\无线网优\svn\SourceCode\1_Develop\四川\DataImport
+2015-08-20 16:38:51,919 INFO  [main] zookeeper.ZooKeeper: Initiating client connection, connectString=wxdb03:2181,wxdb04:2181,wxdb05:2181 sessionTimeout=60000 watcher=master:8083
+2015-08-20 16:38:51,936 DEBUG [main] zookeeper.ClientCnxn: zookeeper.disableAutoWatchReset is false
+2015-08-20 16:38:52,046 INFO  [main] zk.RecoverableZooKeeper: Process identifier=master:8083 connecting to ZooKeeper ensemble=wxdb03:2181,wxdb04:2181,wxdb05:2181
+2015-08-20 16:38:52,059 INFO  [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Opening socket connection to server wxdb03/133.37.31.53:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-08-20 16:38:52,069 INFO  [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Socket connection established to wxdb03/133.37.31.53:2181, initiating session
+2015-08-20 16:38:52,074 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Session establishment request sent on wxdb03/133.37.31.53:2181
+2015-08-20 16:38:52,100 INFO  [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Session establishment complete on server wxdb03/133.37.31.53:2181, sessionid = 0x14f069e66a1b9fd, negotiated timeout = 60000
+2015-08-20 16:38:52,108 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083 Received ZooKeeper Event, type=None, state=SyncConnected, path=null
+2015-08-20 16:38:52,112 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd connected
+2015-08-20 16:38:52,139 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,60132072829,0  request:: '/dimport,F  response:: s{60131232261,60131232261,1439798017524,1439798017524,0,112,0,0,0,4,60132072818} 
+2015-08-20 16:38:52,150 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 2,3  replyHeader:: 2,60132072829,0  request:: '/dimport/runTask,F  response:: s{60131838477,60131838477,1439978727296,1439978727296,0,6,0,0,0,0,60131838901} 
+2015-08-20 16:38:52,158 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 3,3  replyHeader:: 3,60132072829,0  request:: '/dimport/hosts,F  response:: s{60131232263,60131232263,1439798017538,1439798017538,0,101,0,0,0,1,60132072816} 
+2015-08-20 16:38:52,379 INFO  [master:zouyg.mshome.net:8083] mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2015-08-20 16:38:52,380 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container Server@e91265 + SelectChannelConnector@0.0.0.0:8083 as connector
+2015-08-20 16:38:52,393 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container Server@e91265 + org.mortbay.thread.QueuedThreadPool@6e7c41 as threadpool
+2015-08-20 16:38:52,417 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container Server@e91265 + ContextHandlerCollection@d6d6d4 as handler
+2015-08-20 16:38:52,560 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ContextHandlerCollection@d6d6d4 + org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master} as handler
+2015-08-20 16:38:52,564 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container SecurityHandler@e3a004 + ServletHandler@1e88ea as handler
+2015-08-20 16:38:52,564 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container SessionHandler@aef321 + SecurityHandler@e3a004 as handler
+2015-08-20 16:38:52,566 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container SessionHandler@aef321 + org.mortbay.jetty.servlet.HashSessionManager@1dc0729 as sessionManager
+2015-08-20 16:38:52,566 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master} + SessionHandler@aef321 as handler
+2015-08-20 16:38:52,567 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master} + ErrorPageErrorHandler@5a3165 as error
+2015-08-20 16:38:52,568 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ContextHandlerCollection@d6d6d4 + org.mortbay.jetty.servlet.Context@1610613{/logs,null} as handler
+2015-08-20 16:38:52,569 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@1610613{/logs,null} + ServletHandler@d5cb20 as handler
+2015-08-20 16:38:52,602 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Checking Resource aliases
+2015-08-20 16:38:52,603 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ContextHandlerCollection@d6d6d4 + org.mortbay.jetty.servlet.Context@9990d{/static,null} as handler
+2015-08-20 16:38:52,604 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@9990d{/static,null} + ServletHandler@1f37fd as handler
+2015-08-20 16:38:52,653 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1f37fd + org.mortbay.jetty.servlet.DefaultServlet-30621685 as servlet
+2015-08-20 16:38:52,657 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1f37fd + (S=org.mortbay.jetty.servlet.DefaultServlet-30621685,[/*]) as servletMapping
+2015-08-20 16:38:52,661 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap=null
+2015-08-20 16:38:52,661 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=null
+2015-08-20 16:38:52,662 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,662 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/*=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:52,663 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={org.mortbay.jetty.servlet.DefaultServlet-30621685=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:52,671 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + safety as filter
+2015-08-20 16:38:52,672 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (F=safety,[/*],[],15) as filterMapping
+2015-08-20 16:38:52,677 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,678 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,679 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,679 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap=null
+2015-08-20 16:38:52,680 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap=null
+2015-08-20 16:38:52,680 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@d5cb20 + safety as filter
+2015-08-20 16:38:52,681 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@d5cb20 + (F=safety,[/*],[],15) as filterMapping
+2015-08-20 16:38:52,681 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,682 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,682 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,683 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap=null
+2015-08-20 16:38:52,683 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap=null
+2015-08-20 16:38:52,684 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1f37fd + safety as filter
+2015-08-20 16:38:52,684 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1f37fd + (F=safety,[/*],[],15) as filterMapping
+2015-08-20 16:38:52,685 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,685 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,686 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,686 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/*=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:52,686 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={org.mortbay.jetty.servlet.DefaultServlet-30621685=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:52,687 INFO  [master:zouyg.mshome.net:8083] http.HttpServer: Added global filtersafety (class=com.tydic.server.http.HttpServer$QuotingInputFilter)
+2015-08-20 16:38:52,689 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + stacks as servlet
+2015-08-20 16:38:52,689 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=stacks,[/stacks]) as servletMapping
+2015-08-20 16:38:52,690 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,690 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,691 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,691 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/stacks=stacks}
+2015-08-20 16:38:52,691 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={stacks=stacks}
+2015-08-20 16:38:52,692 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ContextHandlerCollection@d6d6d4 + org.mortbay.jetty.servlet.Context@841c26{/logs,null} as handler
+2015-08-20 16:38:52,693 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@841c26{/logs,null} + ServletHandler@1541db9 as handler
+2015-08-20 16:38:52,693 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1541db9 + org.mortbay.jetty.servlet.DefaultServlet-23823448 as servlet
+2015-08-20 16:38:52,694 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1541db9 + (S=org.mortbay.jetty.servlet.DefaultServlet-23823448,[/]) as servletMapping
+2015-08-20 16:38:52,696 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap=null
+2015-08-20 16:38:52,697 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=null
+2015-08-20 16:38:52,697 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,698 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/=org.mortbay.jetty.servlet.DefaultServlet-23823448}
+2015-08-20 16:38:52,700 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={org.mortbay.jetty.servlet.DefaultServlet-23823448=org.mortbay.jetty.servlet.DefaultServlet-23823448}
+2015-08-20 16:38:52,706 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + root as servlet
+2015-08-20 16:38:52,708 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=root,[/]) as servletMapping
+2015-08-20 16:38:52,708 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,709 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,713 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,714 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/=root, /stacks=stacks}
+2015-08-20 16:38:52,714 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={root=root, stacks=stacks}
+2015-08-20 16:38:52,757 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + order as servlet
+2015-08-20 16:38:52,758 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=order,[/order]) as servletMapping
+2015-08-20 16:38:52,759 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,760 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,760 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,761 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/order=order, /=root, /stacks=stacks}
+2015-08-20 16:38:52,761 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={order=order, root=root, stacks=stacks}
+2015-08-20 16:38:52,762 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + status as servlet
+2015-08-20 16:38:52,763 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=status,[/master]) as servletMapping
+2015-08-20 16:38:52,763 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,764 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,765 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,765 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/order=order, /master=status, /=root, /stacks=stacks}
+2015-08-20 16:38:52,766 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:52,770 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + dump as servlet
+2015-08-20 16:38:52,771 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=dump,[/dump]) as servletMapping
+2015-08-20 16:38:52,772 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:52,772 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:52,773 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:52,773 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/order=order, /dump=dump, /master=status, /=root, /stacks=stacks}
+2015-08-20 16:38:52,774 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:52,774 INFO  [master:zouyg.mshome.net:8083] http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 8083
+2015-08-20 16:38:52,778 INFO  [master:zouyg.mshome.net:8083] http.HttpServer: listener.getLocalPort() returned 8083 webServer.getConnectors()[0].getLocalPort() returned 8083
+2015-08-20 16:38:52,779 INFO  [master:zouyg.mshome.net:8083] http.HttpServer: Jetty bound to port 8083
+2015-08-20 16:38:52,779 INFO  [master:zouyg.mshome.net:8083] mortbay.log: jetty-6.1.26
+2015-08-20 16:38:52,822 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.thread.QueuedThreadPool@6e7c41
+2015-08-20 16:38:52,928 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Thread Context class loader is: ContextLoader@WepAppsContext([]) / sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:52,929 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Parent class loader is: sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:52,929 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Parent class loader is: sun.misc.Launcher$ExtClassLoader@a30a4e
+2015-08-20 16:38:52,933 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Try webapp=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/, exists=true, directory=true
+2015-08-20 16:38:52,934 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: webapp=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/
+2015-08-20 16:38:52,949 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Delete existing temp dir C:\Users\HANS~1\AppData\Local\Temp\Jetty_0_0_0_0_8083_master____.9r95ea for org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master}
+2015-08-20 16:38:52,970 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Created temp dir C:\Users\HANS~1\AppData\Local\Temp\Jetty_0_0_0_0_8083_master____.9r95ea for org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master}
+2015-08-20 16:38:53,027 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(org/mortbay/jetty/webapp/webdefault.xml)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jetty-6.1.26.jar!/org/mortbay/jetty/webapp/webdefault.xml
+2015-08-20 16:38:53,032 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: parse: jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jetty-6.1.26.jar!/org/mortbay/jetty/webapp/webdefault.xml
+2015-08-20 16:38:53,043 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: parsing: sid=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jetty-6.1.26.jar!/org/mortbay/jetty/webapp/webdefault.xml,pid=null
+2015-08-20 16:38:53,070 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: ContextParam: org.mortbay.jetty.webapp.NoTLDJarPattern=start.jar|ant-.*\.jar|dojo-.*\.jar|jetty-.*\.jar|jsp-api-.*\.jar|junit-.*\.jar|servlet-api-.*\.jar|dnsns\.jar|rt\.jar|jsse\.jar|tools\.jar|sunpkcs11\.jar|sunjce_provider\.jar|xerces.*\.jar
+2015-08-20 16:38:53,076 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.apache.jasper.servlet.JspServlet from sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,084 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,085 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,085 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,085 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/order=order, /dump=dump, /master=status, /=root, /stacks=stacks}
+2015-08-20 16:38:53,086 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:53,086 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + default as servlet
+2015-08-20 16:38:53,086 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + jsp as servlet
+2015-08-20 16:38:53,087 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=default,[/]) as servletMapping
+2015-08-20 16:38:53,087 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container ServletHandler@1e88ea + (S=jsp,[*.jsp, *.jspf, *.jspx, *.xsp, *.JSP, *.JSPF, *.JSPX, *.XSP]) as servletMapping
+2015-08-20 16:38:53,088 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,089 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,089 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,089 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={*.XSP=jsp, *.jsp=jsp, *.jspx=jsp, *.JSPF=jsp, /=default, *.xsp=jsp, /stacks=stacks, *.jspf=jsp, *.JSPX=jsp, /order=order, /dump=dump, /master=status, *.JSP=jsp}
+2015-08-20 16:38:53,090 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={jsp=jsp, default=default, dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:53,092 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: parse: file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/WEB-INF/web.xml
+2015-08-20 16:38:53,093 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: parsing: sid=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/WEB-INF/web.xml,pid=null
+2015-08-20 16:38:53,095 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,096 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,096 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,097 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={*.XSP=jsp, *.jsp=jsp, *.jspx=jsp, *.JSPF=jsp, /=default, *.xsp=jsp, /stacks=stacks, *.jspf=jsp, *.JSPX=jsp, /order=order, /dump=dump, /master=status, *.JSP=jsp}
+2015-08-20 16:38:53,097 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={jsp=jsp, default=default, dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:53,098 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,099 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,099 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,100 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={*.XSP=jsp, *.jsp=jsp, *.jspx=jsp, *.JSPF=jsp, /=default, *.xsp=jsp, /stacks=stacks, *.jspf=jsp, *.JSPX=jsp, /order=order, /dump=dump, /master=status, *.JSP=jsp}
+2015-08-20 16:38:53,100 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={jsp=jsp, default=default, dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:53,101 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Configuring web-jetty.xml
+2015-08-20 16:38:53,111 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/activation-1.1.jar
+2015-08-20 16:38:53,116 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-annotations-2.6.0.jar
+2015-08-20 16:38:53,118 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-auth-2.6.0.jar
+2015-08-20 16:38:53,120 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-common-2.6.0.jar
+2015-08-20 16:38:53,201 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-hdfs-2.6.0.jar
+2015-08-20 16:38:53,224 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-hdfs-nfs-2.6.0.jar
+2015-08-20 16:38:53,226 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-nfs-2.6.0.jar
+2015-08-20 16:38:53,228 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hadoop-streaming-2.6.0.jar
+2015-08-20 16:38:53,229 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/hamcrest-core-1.3.jar
+2015-08-20 16:38:53,231 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/htrace-core-3.0.4.jar
+2015-08-20 16:38:53,232 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/rdbms/DbSupport-1.0.0.jar
+2015-08-20 16:38:53,234 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/rdbms/druid-1.0.9.jar
+2015-08-20 16:38:53,250 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/rdbms/mysql-connector-java-5.1.14.jar
+2015-08-20 16:38:53,253 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/rdbms/ojdbc6.jar
+2015-08-20 16:38:53,260 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/asm-4.0.jar
+2015-08-20 16:38:53,262 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/aviator-2.3.2.jar
+2015-08-20 16:38:53,264 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-beanutils-1.8.0.jar
+2015-08-20 16:38:53,266 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-cli-1.2.jar
+2015-08-20 16:38:53,267 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-codec-1.7.jar
+2015-08-20 16:38:53,269 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-configuration-1.6.jar
+2015-08-20 16:38:53,271 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/fastjson-1.1.37.jar
+2015-08-20 16:38:53,273 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/guava-12.0.1.jar
+2015-08-20 16:38:53,281 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/htrace-core-2.01.jar
+2015-08-20 16:38:53,282 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/httpclient-4.2.5.jar
+2015-08-20 16:38:53,285 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/httpcore-4.2.5.jar
+2015-08-20 16:38:53,288 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jackson-core-asl-1.8.8.jar
+2015-08-20 16:38:53,290 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jackson-mapper-asl-1.8.8.jar
+2015-08-20 16:38:53,294 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jasper-compiler-5.5.23.jar
+2015-08-20 16:38:53,297 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jasper-runtime-5.5.23.jar
+2015-08-20 16:38:53,299 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jersey-core-1.8.jar
+2015-08-20 16:38:53,307 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jersey-json-1.8.jar
+2015-08-20 16:38:53,311 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jersey-server-1.8.jar
+2015-08-20 16:38:53,314 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jersey-server-1.8.jar!/META-INF/taglib.tld
+2015-08-20 16:38:53,320 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar
+2015-08-20 16:38:53,322 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c-1_0-rt.tld
+2015-08-20 16:38:53,323 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c-1_0.tld
+2015-08-20 16:38:53,323 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c.tld
+2015-08-20 16:38:53,324 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt-1_0-rt.tld
+2015-08-20 16:38:53,324 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt-1_0.tld
+2015-08-20 16:38:53,324 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt.tld
+2015-08-20 16:38:53,325 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fn.tld
+2015-08-20 16:38:53,326 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/permittedTaglibs.tld
+2015-08-20 16:38:53,326 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/scriptfree.tld
+2015-08-20 16:38:53,327 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql-1_0-rt.tld
+2015-08-20 16:38:53,327 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql-1_0.tld
+2015-08-20 16:38:53,328 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql.tld
+2015-08-20 16:38:53,329 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x-1_0-rt.tld
+2015-08-20 16:38:53,329 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x-1_0.tld
+2015-08-20 16:38:53,330 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD found jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x.tld
+2015-08-20 16:38:53,334 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/log4j-1.2.15.jar
+2015-08-20 16:38:53,338 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/slf4j-api-1.6.5.jar
+2015-08-20 16:38:53,339 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/slf4j-log4j12-1.6.4.jar
+2015-08-20 16:38:53,340 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/zookeeper-3.4.5.jar
+2015-08-20 16:38:53,349 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-collections-3.2.1.jar
+2015-08-20 16:38:53,354 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-io-2.4.jar
+2015-08-20 16:38:53,356 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-lang-2.6.jar
+2015-08-20 16:38:53,359 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/commons-logging-1.1.3.jar
+2015-08-20 16:38:53,360 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/hadoop/protobuf-java-2.5.0.jar
+2015-08-20 16:38:53,369 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/access-bridge-32.jar
+2015-08-20 16:38:53,372 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/jaccess.jar
+2015-08-20 16:38:53,374 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/localedata.jar
+2015-08-20 16:38:53,377 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/sunec.jar
+2015-08-20 16:38:53,380 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/sunmscapi.jar
+2015-08-20 16:38:53,383 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD search of file:/E:/soft/java/MyEclipse14/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/ext/zipfs.jar
+2015-08-20 16:38:53,388 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl from null
+2015-08-20 16:38:53,390 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class com.sun.org.apache.xerces.internal.impl.dv.dtd.DTDDVFactoryImpl from null
+2015-08-20 16:38:53,392 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2015-08-20 16:38:53,393 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,394 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2015-08-20 16:38:53,397 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd
+2015-08-20 16:38:53,399 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,400 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: getResource(javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd)=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd
+2015-08-20 16:38:53,401 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c-1_0.tld
+2015-08-20 16:38:53,425 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,429 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,434 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,476 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x-1_0-rt.tld
+2015-08-20 16:38:53,480 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,480 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,482 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,499 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql-1_0.tld
+2015-08-20 16:38:53,502 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,503 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,507 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,529 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x-1_0.tld
+2015-08-20 16:38:53,532 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,533 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,534 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,553 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c.tld
+2015-08-20 16:38:53,563 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt-1_0-rt.tld
+2015-08-20 16:38:53,566 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,567 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,569 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,606 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/scriptfree.tld
+2015-08-20 16:38:53,610 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt-1_0.tld
+2015-08-20 16:38:53,616 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,616 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,617 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,633 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/permittedTaglibs.tld
+2015-08-20 16:38:53,636 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql-1_0-rt.tld
+2015-08-20 16:38:53,639 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,640 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,641 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,653 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/x.tld
+2015-08-20 16:38:53,657 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fmt.tld
+2015-08-20 16:38:53,661 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jersey-server-1.8.jar!/META-INF/taglib.tld
+2015-08-20 16:38:53,664 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,664 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,666 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,680 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/c-1_0-rt.tld
+2015-08-20 16:38:53,683 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resolveEntity(-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN, http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd)
+2015-08-20 16:38:53,684 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Can't exact match entity in redirect map, trying web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,687 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Redirected entity http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd --> jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-api-2.1-6.1.14.jar!/javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd
+2015-08-20 16:38:53,710 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/fn.tld
+2015-08-20 16:38:53,732 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: TLD=jar:file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/lib/common/jsp-2.1-6.1.14.jar!/META-INF/sql.tld
+2015-08-20 16:38:53,743 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container Server@e91265 + org.mortbay.jetty.servlet.HashSessionIdManager@1ec0a94 as sessionIdManager
+2015-08-20 16:38:53,744 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Init SecureRandom.
+2015-08-20 16:38:53,745 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.HashSessionIdManager@1ec0a94
+2015-08-20 16:38:53,749 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:38:53,753 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,754 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,754 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,755 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={*.XSP=jsp, *.jsp=jsp, *.jspx=jsp, *.JSPF=jsp, /=default, *.xsp=jsp, /stacks=stacks, *.jspf=jsp, *.JSPX=jsp, /order=order, /dump=dump, /master=status, *.JSP=jsp}
+2015-08-20 16:38:53,755 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={jsp=jsp, default=default, dump=dump, order=order, status=status, root=root, stacks=stacks}
+2015-08-20 16:38:53,756 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ServletHandler@1e88ea
+2015-08-20 16:38:53,757 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ServletHandler@1e88ea
+2015-08-20 16:38:53,757 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting SecurityHandler@e3a004
+2015-08-20 16:38:53,757 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started SecurityHandler@e3a004
+2015-08-20 16:38:53,758 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting SessionHandler@aef321
+2015-08-20 16:38:53,758 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started SessionHandler@aef321
+2015-08-20 16:38:53,758 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master}
+2015-08-20 16:38:53,759 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ErrorPageErrorHandler@5a3165
+2015-08-20 16:38:53,759 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ErrorPageErrorHandler@5a3165
+2015-08-20 16:38:53,761 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class com.tydic.server.http.HttpServer$QuotingInputFilter from sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,761 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class com.tydic.server.http.HttpServer$QuotingInputFilter
+2015-08-20 16:38:53,770 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started safety
+2015-08-20 16:38:53,776 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started dump
+2015-08-20 16:38:53,776 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started root
+2015-08-20 16:38:53,778 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started status
+2015-08-20 16:38:53,778 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started order
+2015-08-20 16:38:53,778 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started stacks
+2015-08-20 16:38:53,779 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.apache.jasper.servlet.JspServlet from sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,780 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class org.apache.jasper.servlet.JspServlet
+2015-08-20 16:38:53,787 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.apache.commons.logging.impl.Log4JLogger
+2015-08-20 16:38:53,788 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.apache.commons.logging.impl.Log4JLogger from sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,905 DEBUG [master:zouyg.mshome.net:8083] compiler.JspRuntimeContext: Parent class loader is: ContextLoader@WepAppsContext([]) / sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,906 DEBUG [master:zouyg.mshome.net:8083] compiler.JspRuntimeContext: Compilation classpath initialized: C:\Users\HANS~1\AppData\Local\Temp\Jetty_0_0_0_0_8083_master____.9r95ea\jsp;null
+2015-08-20 16:38:53,912 DEBUG [master:zouyg.mshome.net:8083] servlet.JspServlet: Scratch dir for the JSP engine is: C:\Users\HANS~1\AppData\Local\Temp\Jetty_0_0_0_0_8083_master____.9r95ea\jsp
+2015-08-20 16:38:53,913 DEBUG [master:zouyg.mshome.net:8083] servlet.JspServlet: IMPORTANT: Do not modify the generated servlets
+2015-08-20 16:38:53,913 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started jsp
+2015-08-20 16:38:53,914 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.mortbay.jetty.servlet.DefaultServlet
+2015-08-20 16:38:53,915 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: loaded class org.mortbay.jetty.servlet.DefaultServlet from sun.misc.Launcher$AppClassLoader@1371a59
+2015-08-20 16:38:53,916 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class org.mortbay.jetty.servlet.DefaultServlet
+2015-08-20 16:38:53,956 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.DefaultServlet$NIOResourceCache@2367ff
+2015-08-20 16:38:53,957 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.ResourceCache@80c8af
+2015-08-20 16:38:53,959 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: resource base = file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/
+2015-08-20 16:38:53,959 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started default
+2015-08-20 16:38:53,960 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.webapp.WebAppContext@bb5566{/,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master}
+2015-08-20 16:38:53,960 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@1610613{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/} + ErrorHandler@f75a71 as errorHandler
+2015-08-20 16:38:53,961 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,961 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,962 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,963 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap=null
+2015-08-20 16:38:53,963 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap=null
+2015-08-20 16:38:53,963 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ServletHandler@d5cb20
+2015-08-20 16:38:53,964 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ServletHandler@d5cb20
+2015-08-20 16:38:53,965 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting org.mortbay.jetty.servlet.Context@1610613{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/}
+2015-08-20 16:38:53,967 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ErrorHandler@f75a71
+2015-08-20 16:38:53,968 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ErrorHandler@f75a71
+2015-08-20 16:38:53,968 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class com.tydic.server.http.HttpServer$QuotingInputFilter
+2015-08-20 16:38:53,969 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started safety
+2015-08-20 16:38:53,969 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.Context@1610613{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/}
+2015-08-20 16:38:53,970 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@9990d{/static,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/static} + ErrorHandler@152dc4b as errorHandler
+2015-08-20 16:38:53,971 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap={safety=safety}
+2015-08-20 16:38:53,971 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=[(F=safety,[/*],[],15)]
+2015-08-20 16:38:53,972 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,975 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/*=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:53,976 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={org.mortbay.jetty.servlet.DefaultServlet-30621685=org.mortbay.jetty.servlet.DefaultServlet-30621685}
+2015-08-20 16:38:53,976 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ServletHandler@1f37fd
+2015-08-20 16:38:53,977 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ServletHandler@1f37fd
+2015-08-20 16:38:53,977 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting org.mortbay.jetty.servlet.Context@9990d{/static,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/static}
+2015-08-20 16:38:53,978 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ErrorHandler@152dc4b
+2015-08-20 16:38:53,978 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ErrorHandler@152dc4b
+2015-08-20 16:38:53,978 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class com.tydic.server.http.HttpServer$QuotingInputFilter
+2015-08-20 16:38:53,979 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started safety
+2015-08-20 16:38:53,980 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class org.mortbay.jetty.servlet.DefaultServlet
+2015-08-20 16:38:53,981 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.DefaultServlet-30621685
+2015-08-20 16:38:53,982 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.Context@9990d{/static,file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/static}
+2015-08-20 16:38:53,985 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Container org.mortbay.jetty.servlet.Context@841c26{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/} + ErrorHandler@fcde5a as errorHandler
+2015-08-20 16:38:53,985 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: filterNameMap=null
+2015-08-20 16:38:53,986 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: pathFilters=null
+2015-08-20 16:38:53,987 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletFilterMap=null
+2015-08-20 16:38:53,987 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletPathMap={/=org.mortbay.jetty.servlet.DefaultServlet-23823448}
+2015-08-20 16:38:53,987 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: servletNameMap={org.mortbay.jetty.servlet.DefaultServlet-23823448=org.mortbay.jetty.servlet.DefaultServlet-23823448}
+2015-08-20 16:38:53,988 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ServletHandler@1541db9
+2015-08-20 16:38:53,988 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ServletHandler@1541db9
+2015-08-20 16:38:53,989 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting org.mortbay.jetty.servlet.Context@841c26{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/}
+2015-08-20 16:38:53,990 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ErrorHandler@fcde5a
+2015-08-20 16:38:53,990 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ErrorHandler@fcde5a
+2015-08-20 16:38:53,991 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: Holding class org.mortbay.jetty.servlet.DefaultServlet
+2015-08-20 16:38:53,991 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.DefaultServlet-23823448
+2015-08-20 16:38:53,992 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.servlet.Context@841c26{/logs,file:/D:/无线网优/svn/SourceCode/1_Develop/四川/DataImport/logs/}
+2015-08-20 16:38:53,993 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting ContextHandlerCollection@d6d6d4
+2015-08-20 16:38:53,994 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started ContextHandlerCollection@d6d6d4
+2015-08-20 16:38:53,994 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: starting Server@e91265
+2015-08-20 16:38:54,030 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started org.mortbay.jetty.nio.SelectChannelConnector$1@1a8346
+2015-08-20 16:38:54,035 INFO  [master:zouyg.mshome.net:8083] mortbay.log: Started SelectChannelConnector@0.0.0.0:8083
+2015-08-20 16:38:54,035 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started SelectChannelConnector@0.0.0.0:8083
+2015-08-20 16:38:54,037 DEBUG [master:zouyg.mshome.net:8083] mortbay.log: started Server@e91265
+2015-08-20 16:38:54,159 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 4,3  replyHeader:: 4,60132072830,0  request:: '/dimport/order,T  response:: s{60131232404,60131838796,1439798231505,1439979361161,39,0,0,0,2271,0,60131232404} 
+2015-08-20 16:38:54,161 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/order
+2015-08-20 16:38:54,184 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 5,8  replyHeader:: 5,60132072830,0  request:: '/dimport/hosts,T  response:: v{'wxdb01} 
+2015-08-20 16:38:54,193 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,60132072830,0  request:: '/dimport/hosts/wxdb01,T  response:: s{60132072766,60132072766,1440059850852,1440059850852,0,0,0,238416584015067376,51,0,60132072766} 
+2015-08-20 16:38:54,194 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/wxdb01
+2015-08-20 16:38:54,213 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 7,4  replyHeader:: 7,60132072830,0  request:: '/dimport/hosts/wxdb01,T  response:: #ffffffff000136d61737465723a383038334a28ffffff8901effffff9d136c7778646230313a383038333a313434303035393835303334333a30,s{60132072766,60132072766,1440059850852,1440059850852,0,0,0,238416584015067376,51,0,60132072766} 
+2015-08-20 16:38:54,219 INFO  [master:zouyg.mshome.net:8083] daemon.DaemonMaster: Server active/primary master=zouyg.mshome.net:8083  2015-08-20 16:38:52, sessionid=0x14f069e66a1b9fd starting
+2015-08-20 16:38:54,220 INFO  [master:zouyg.mshome.net:8083] daemon.DaemonMaster: Master has completed initialization
+2015-08-20 16:38:54,231 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 8,3  replyHeader:: 8,60132072830,-101  request:: '/dimport/hosts/zouyg.mshome.net,F  response::  
+2015-08-20 16:38:54,258 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:38:54,263 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/dimport/hosts for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:38:54,268 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 9,1  replyHeader:: 9,60132072831,0  request:: '/dimport/hosts/zouyg.mshome.net,#ffffffff000136d61737465723a38303833ffffff82fffffff5ffffffbcffffff853ffffffcbfffffff5ffffff847a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,v{s{31,s{'world,'anyone}}},1  response:: '/dimport/hosts/zouyg.mshome.net 
+2015-08-20 16:38:54,269 INFO  [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: Adding ZNode for /dimport/hosts/zouyg.mshome.net in backup master directory
+2015-08-20 16:38:54,280 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 10,3  replyHeader:: 10,60132072831,0  request:: '/dimport/hosts,T  response:: s{60131232263,60131232263,1439798017538,1439798017538,0,102,0,0,0,2,60132072831} 
+2015-08-20 16:38:54,281 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts
+2015-08-20 16:38:54,281 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeChildrenChanged, state=SyncConnected, path=/dimport/hosts
+2015-08-20 16:38:54,284 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 11,1  replyHeader:: 11,60132072832,-110  request:: '/dimport/hosts/zouyg.mshome.net,#ffffffff000136d61737465723a38303833ffffffd9ffffffed1314ffffffffffffffd9fffffff4ffffff8b7a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,v{s{31,s{'world,'anyone}}},1  response::  
+2015-08-20 16:38:54,292 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 12,8  replyHeader:: 12,60132072832,0  request:: '/dimport/hosts,T  response:: v{'wxdb01,'zouyg.mshome.net} 
+2015-08-20 16:38:54,304 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 13,3  replyHeader:: 13,60132072832,0  request:: '/dimport/hosts/wxdb01,T  response:: s{60132072766,60132072766,1440059850852,1440059850852,0,0,0,238416584015067376,51,0,60132072766} 
+2015-08-20 16:38:54,305 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/wxdb01
+2015-08-20 16:38:54,315 INFO  [master:zouyg.mshome.net:8083] zk.RecoverableZooKeeper: Node /dimport/hosts/zouyg.mshome.net already exists and this is not a retry
+2015-08-20 16:38:54,320 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 14,3  replyHeader:: 14,60132072832,0  request:: '/dimport/hosts/zouyg.mshome.net,T  response:: s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:38:54,322 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/zouyg.mshome.net
+2015-08-20 16:38:54,325 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 15,3  replyHeader:: 15,60132072832,0  request:: '/dimport/hosts/zouyg.mshome.net,T  response:: s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:38:54,326 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/zouyg.mshome.net
+2015-08-20 16:38:54,333 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 16,4  replyHeader:: 16,60132072832,0  request:: '/dimport/hosts/zouyg.mshome.net,T  response:: #ffffffff000136d61737465723a38303833ffffff82fffffff5ffffffbcffffff853ffffffcbfffffff5ffffff847a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:38:54,369 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 17,1  replyHeader:: 17,60132072833,-110  request:: '/dimport/master,#ffffffff000136d61737465723a38303833ffffffc6ffffffe4ffffffcaffffff8081779ffffff9a7a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,v{s{31,s{'world,'anyone}}},1  response::  
+2015-08-20 16:38:54,370 INFO  [master:zouyg.mshome.net:8083] zk.RecoverableZooKeeper: Node /dimport/master already exists and this is not a retry
+2015-08-20 16:38:54,381 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 18,3  replyHeader:: 18,60132072833,0  request:: '/dimport/master,T  response:: s{60132072818,60132072818,1440059932021,1440059932021,0,0,0,238416584015067376,51,0,60132072818} 
+2015-08-20 16:38:54,382 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/master
+2015-08-20 16:38:54,392 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 19,3  replyHeader:: 19,60132072833,0  request:: '/dimport/master,T  response:: s{60132072818,60132072818,1440059932021,1440059932021,0,0,0,238416584015067376,51,0,60132072818} 
+2015-08-20 16:38:54,393 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/master
+2015-08-20 16:38:54,393 DEBUG [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: A master is now available
+2015-08-20 16:38:54,401 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 20,4  replyHeader:: 20,60132072833,0  request:: '/dimport/master,T  response:: #ffffffff000136d61737465723a38303833fffffffdffffffbf46ffffffdc414dfffffff14e7778646230313a383038333a313434303035393835303334333a30,s{60132072818,60132072818,1440059932021,1440059932021,0,0,0,238416584015067376,51,0,60132072818} 
+2015-08-20 16:38:54,418 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 21,4  replyHeader:: 21,60132072833,0  request:: '/dimport/master,T  response:: #ffffffff000136d61737465723a38303833fffffffdffffffbf46ffffffdc414dfffffff14e7778646230313a383038333a313434303035393835303334333a30,s{60132072818,60132072818,1440059932021,1440059932021,0,0,0,238416584015067376,51,0,60132072818} 
+2015-08-20 16:38:54,419 INFO  [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: Another master is the active master, wxdb01:8083  2015-08-20 16:37:30; waiting to become the next active master
+2015-08-20 16:39:14,413 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 7ms
+2015-08-20 16:39:23,630 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: REQUEST / on org.mortbay.jetty.HttpConnection@ac8994
+2015-08-20 16:39:23,631 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:39:23,631 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: session=null
+2015-08-20 16:39:23,632 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: servlet=default
+2015-08-20 16:39:23,633 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: chain=safety->default
+2015-08-20 16:39:23,633 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: servlet holder=default
+2015-08-20 16:39:23,633 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: call filter safety
+2015-08-20 16:39:23,638 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: call servlet default
+2015-08-20 16:39:23,639 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/
+2015-08-20 16:39:23,640 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/
+2015-08-20 16:39:23,640 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: resource=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/
+2015-08-20 16:39:23,643 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/index.html
+2015-08-20 16:39:23,650 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:39:23,651 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: session=null
+2015-08-20 16:39:23,651 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: servlet=default
+2015-08-20 16:39:23,651 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: chain=safety->default
+2015-08-20 16:39:23,652 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: servlet holder=default
+2015-08-20 16:39:23,652 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: call filter safety
+2015-08-20 16:39:23,652 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: call servlet default
+2015-08-20 16:39:23,657 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/index.html.gz
+2015-08-20 16:39:23,658 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/index.html
+2015-08-20 16:39:23,686 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: resource=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/index.html content
+2015-08-20 16:39:23,710 DEBUG [22165380@qtp-7240769-0 - /] mortbay.log: RESPONSE /  304
+2015-08-20 16:39:23,753 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: REQUEST /master on org.mortbay.jetty.HttpConnection@ac8994
+2015-08-20 16:39:23,753 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:39:23,757 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: session=null
+2015-08-20 16:39:23,758 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet=status
+2015-08-20 16:39:23,759 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: chain=safety->status
+2015-08-20 16:39:23,759 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet holder=status
+2015-08-20 16:39:23,760 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call filter safety
+2015-08-20 16:39:23,760 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call servlet status
+2015-08-20 16:39:23,770 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: Ignoring extra content <html>
+2015-08-20 16:39:23,784 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: RESPONSE /master  302
+2015-08-20 16:39:34,419 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 9ms
+2015-08-20 16:39:40,641 DEBUG [22165380@qtp-7240769-0] mortbay.log: EOF
+2015-08-20 16:39:54,421 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 7ms
+2015-08-20 16:39:54,654 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:39:54,654 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeDeleted path:/dimport/master for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:39:54,656 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:39:54,656 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeDeleted path:/dimport/hosts/wxdb01 for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:39:54,658 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:39:54,658 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/dimport/hosts for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:39:54,665 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 22,3  replyHeader:: 22,60132072861,-101  request:: '/dimport/master,T  response::  
+2015-08-20 16:39:54,667 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on znode that does not yet exist, /dimport/master
+2015-08-20 16:39:54,668 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeDeleted, state=SyncConnected, path=/dimport/master
+2015-08-20 16:39:54,677 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 23,3  replyHeader:: 23,60132072861,-101  request:: '/dimport/master,T  response::  
+2015-08-20 16:39:54,678 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on znode that does not yet exist, /dimport/master
+2015-08-20 16:39:54,679 DEBUG [main-EventThread] daemon.ActiveMasterManager: No master available. Notifying waiting threads
+2015-08-20 16:39:54,683 INFO  [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: Adding ZNode for /dimport/hosts/zouyg.mshome.net in backup master directory
+2015-08-20 16:39:54,694 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 24,3  replyHeader:: 24,60132072861,-101  request:: '/dimport/hosts/wxdb01,T  response::  
+2015-08-20 16:39:54,695 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on znode that does not yet exist, /dimport/hosts/wxdb01
+2015-08-20 16:39:54,695 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeDeleted, state=SyncConnected, path=/dimport/hosts/wxdb01
+2015-08-20 16:39:54,695 INFO  [main-EventThread] daemon.ServerManager: MasterServer ephemeral node deleted, processing expiration [wxdb01]
+2015-08-20 16:39:54,702 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 25,1  replyHeader:: 25,60132072862,-110  request:: '/dimport/hosts/zouyg.mshome.net,#ffffffff000136d61737465723a38303833ffffffad79ffffffb4ffffffddffffffe0721dffffff877a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,v{s{31,s{'world,'anyone}}},1  response::  
+2015-08-20 16:39:54,703 INFO  [master:zouyg.mshome.net:8083] zk.RecoverableZooKeeper: Node /dimport/hosts/zouyg.mshome.net already exists and this is not a retry
+2015-08-20 16:39:54,710 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 26,3  replyHeader:: 26,60132072862,0  request:: '/dimport/hosts,T  response:: s{60131232263,60131232263,1439798017538,1439798017538,0,103,0,0,0,1,60132072861} 
+2015-08-20 16:39:54,710 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts
+2015-08-20 16:39:54,711 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeChildrenChanged, state=SyncConnected, path=/dimport/hosts
+2015-08-20 16:39:54,720 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 27,3  replyHeader:: 27,60132072862,0  request:: '/dimport/hosts/zouyg.mshome.net,T  response:: s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:39:54,721 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/zouyg.mshome.net
+2015-08-20 16:39:54,726 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 28,8  replyHeader:: 28,60132072862,0  request:: '/dimport/hosts,T  response:: v{'zouyg.mshome.net} 
+2015-08-20 16:39:54,737 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:39:54,738 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeCreated path:/dimport/master for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:39:54,741 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 29,1  replyHeader:: 29,60132072863,0  request:: '/dimport/master,#ffffffff000136d61737465723a383038331cffffff8e173f1857fffffff3157a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,v{s{31,s{'world,'anyone}}},1  response:: '/dimport/master 
+2015-08-20 16:39:54,743 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 30,3  replyHeader:: 30,60132072863,0  request:: '/dimport/hosts/zouyg.mshome.net,T  response:: s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:39:54,744 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/zouyg.mshome.net
+2015-08-20 16:39:54,751 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 31,3  replyHeader:: 31,60132072863,0  request:: '/dimport/master,T  response:: s{60132072863,60132072863,1440060016088,1440060016088,0,0,0,94301394594544125,61,0,60132072863} 
+2015-08-20 16:39:54,752 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/master
+2015-08-20 16:39:54,753 DEBUG [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: A master is now available
+2015-08-20 16:39:54,759 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 32,3  replyHeader:: 32,60132072863,0  request:: '/dimport/master,T  response:: s{60132072863,60132072863,1440060016088,1440060016088,0,0,0,94301394594544125,61,0,60132072863} 
+2015-08-20 16:39:54,762 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/master
+2015-08-20 16:39:54,763 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeCreated, state=SyncConnected, path=/dimport/master
+2015-08-20 16:39:54,766 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 33,4  replyHeader:: 33,60132072863,0  request:: '/dimport/master,T  response:: #ffffffff000136d61737465723a383038331cffffff8e173f1857fffffff3157a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,s{60132072863,60132072863,1440060016088,1440060016088,0,0,0,94301394594544125,61,0,60132072863} 
+2015-08-20 16:39:54,767 INFO  [master:zouyg.mshome.net:8083] daemon.ActiveMasterManager: Registered Active Master=zouyg.mshome.net:8083  2015-08-20 16:38:52
+2015-08-20 16:39:54,775 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 34,3  replyHeader:: 34,60132072863,0  request:: '/dimport/master,T  response:: s{60132072863,60132072863,1440060016088,1440060016088,0,0,0,94301394594544125,61,0,60132072863} 
+2015-08-20 16:39:54,775 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/master
+2015-08-20 16:39:54,776 DEBUG [main-EventThread] daemon.ActiveMasterManager: A master is now available
+2015-08-20 16:39:54,777 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 35,3  replyHeader:: 35,60132072863,0  request:: '/dimport/runTask,T  response:: s{60131838477,60131838477,1439978727296,1439978727296,0,6,0,0,0,0,60131838901} 
+2015-08-20 16:39:54,778 DEBUG [master:zouyg.mshome.net:8083] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/runTask
+2015-08-20 16:39:54,798 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 36,4  replyHeader:: 36,60132072863,0  request:: '/dimport/master,T  response:: #ffffffff000136d61737465723a383038331cffffff8e173f1857fffffff3157a6f7579672e6d73686f6d652e6e65743a383038333a313434303035393933323135393a30,s{60132072863,60132072863,1440060016088,1440060016088,0,0,0,94301394594544125,61,0,60132072863} 
+2015-08-20 16:39:54,800 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 37,8  replyHeader:: 37,60132072863,0  request:: '/dimport/runTask,T  response:: v{} 
+2015-08-20 16:40:14,795 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 11ms
+2015-08-20 16:40:34,791 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 6ms
+2015-08-20 16:40:47,238 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: REQUEST /master on org.mortbay.jetty.HttpConnection@ac8994
+2015-08-20 16:40:47,238 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:40:47,239 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: session=null
+2015-08-20 16:40:47,239 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet=status
+2015-08-20 16:40:47,240 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: chain=safety->status
+2015-08-20 16:40:47,240 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet holder=status
+2015-08-20 16:40:47,240 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call filter safety
+2015-08-20 16:40:47,241 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call servlet status
+2015-08-20 16:40:47,253 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: RESPONSE /master  200
+2015-08-20 16:40:47,387 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: REQUEST /favicon.ico on org.mortbay.jetty.HttpConnection@ac8994
+2015-08-20 16:40:47,387 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:40:47,387 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: session=null
+2015-08-20 16:40:47,388 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: servlet=default
+2015-08-20 16:40:47,388 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: chain=safety->default
+2015-08-20 16:40:47,388 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: servlet holder=default
+2015-08-20 16:40:47,389 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: call filter safety
+2015-08-20 16:40:47,389 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: call servlet default
+2015-08-20 16:40:47,393 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/favicon.ico.gz
+2015-08-20 16:40:47,396 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/favicon.ico
+2015-08-20 16:40:47,397 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: RESOURCE=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/favicon.ico
+2015-08-20 16:40:47,397 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: resource=file:/D:/%e6%97%a0%e7%ba%bf%e7%bd%91%e4%bc%98/svn/SourceCode/1_Develop/%e5%9b%9b%e5%b7%9d/DataImport/classes/webapps/master/favicon.ico
+2015-08-20 16:40:47,402 DEBUG [22165380@qtp-7240769-0 - /favicon.ico] mortbay.log: RESPONSE /favicon.ico  404
+2015-08-20 16:40:54,800 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 14ms
+2015-08-20 16:40:54,825 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: REQUEST /master on org.mortbay.jetty.HttpConnection@ac8994
+2015-08-20 16:40:54,826 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: sessionManager=org.mortbay.jetty.servlet.HashSessionManager@1dc0729
+2015-08-20 16:40:54,828 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: session=null
+2015-08-20 16:40:54,829 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet=status
+2015-08-20 16:40:54,829 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: chain=safety->status
+2015-08-20 16:40:54,830 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: servlet holder=status
+2015-08-20 16:40:54,830 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call filter safety
+2015-08-20 16:40:54,831 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: call servlet status
+2015-08-20 16:40:54,834 DEBUG [22165380@qtp-7240769-0 - /master] mortbay.log: RESPONSE /master  200
+2015-08-20 16:41:00,647 DEBUG [22165380@qtp-7240769-0] mortbay.log: EOF
+2015-08-20 16:41:14,810 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 22ms
+2015-08-20 16:41:34,816 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got ping response for sessionid: 0x14f069e66a1b9fd after 26ms
+2015-08-20 16:41:38,568 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:41:38,569 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeCreated path:/dimport/hosts/wxdb01 for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:41:38,570 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got notification sessionid:0x14f069e66a1b9fd
+2015-08-20 16:41:38,570 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/dimport/hosts for sessionid 0x14f069e66a1b9fd
+2015-08-20 16:41:38,578 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 38,3  replyHeader:: 38,60132072914,0  request:: '/dimport/hosts/wxdb01,T  response:: s{60132072913,60132072913,1440060119918,1440060119918,0,0,0,94301394594544126,51,0,60132072913} 
+2015-08-20 16:41:38,579 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts/wxdb01
+2015-08-20 16:41:38,580 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeCreated, state=SyncConnected, path=/dimport/hosts/wxdb01
+2015-08-20 16:41:38,580 INFO  [main-EventThread] daemon.ServerManager:  host   /dimport/hosts/zouyg.mshome.net data changed
+2015-08-20 16:41:38,594 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 39,3  replyHeader:: 39,60132072915,0  request:: '/dimport/hosts/zouyg.mshome.net,F  response:: s{60132072831,60132072831,1440059955609,1440059955609,0,0,0,94301394594544125,61,0,60132072831} 
+2015-08-20 16:41:38,605 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 40,4  replyHeader:: 40,60132072915,0  request:: '/dimport/hosts/wxdb01,T  response:: #ffffffff000136d61737465723a38303833ffffffc757587b6557601f7778646230313a383038333a313434303036303131393430323a30,s{60132072913,60132072913,1440060119918,1440060119918,0,0,0,94301394594544126,51,0,60132072913} 
+2015-08-20 16:41:38,616 DEBUG [main-SendThread(wxdb03:2181)] zookeeper.ClientCnxn: Reading reply sessionid:0x14f069e66a1b9fd, packet:: clientPath:null serverPath:null finished:false header:: 41,3  replyHeader:: 41,60132072915,0  request:: '/dimport/hosts,T  response:: s{60131232263,60131232263,1439798017538,1439798017538,0,104,0,0,0,2,60132072913} 
+2015-08-20 16:41:38,617 DEBUG [main-EventThread] zk.ZKUtil: master:8083-0x14f069e66a1b9fd Set watcher on existing znode=/dimport/hosts
+2015-08-20 16:41:38,619 DEBUG [main-EventThread] zk.ZooKeeperWatcher: master:8083-0x14f069e66a1b9fd Received ZooKeeper Event, type=NodeChildrenChanged, state=SyncConnected, path=/dimport/hosts
